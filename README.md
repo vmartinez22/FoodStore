@@ -24,5 +24,5 @@ Martínez, Victoria Abigail — Comisión 8
 Tecnicatura Universitaria en Programación a Distancia — UTN
 
 ## Links
-- 📄 Documentación PDF: [agregar link]
-- 🎥 Video explicativo: [agregar link]
+- 📄 Documentación PDF: https://github.com/vmartinez22/FoodStore/blob/main/Martinez_Victoria_TPI_Prog2_FoodStore.pdf
+- 🎥 Video explicativo: https://youtu.be/kf7MHIJbavQ
